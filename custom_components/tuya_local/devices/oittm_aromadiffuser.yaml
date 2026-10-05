@@ -1,0 +1,61 @@
+name: Aroma diffuser
+products:
+  - id: ovvg6eKhVt6sb92l
+    manufacturer: Oittm
+    model: Essential Oil Diffuser
+entities:
+  - entity: fan
+    translation_key: aroma_diffuser
+    dps:
+      - id: 1
+        type: boolean
+        name: switch
+      - id: 101
+        type: string
+        name: preset_mode
+        mapping:
+          - dps_val: "1"
+            value: "Continuous"
+          - dps_val: "2"
+            value: "Intermittent"
+          - dps_val: "3"
+            value: "Off"
+
+  - entity: light
+    name: Moodlight
+    dps:
+      - id: 102
+        type: string
+        name: switch
+        mapping:
+          - dps_val: "3"
+            value: false
+          - dps_val: "2"
+            value: true
+          - dps_val: "1"
+            value: true
+
+  - entity: select
+    name: Light Mode
+    dps:
+      - id: 102
+        type: string
+        name: option
+        mapping:
+          - dps_val: "3"
+            value: "Off"
+          - dps_val: "1"
+            value: "Color Cycle"
+          - dps_val: "2"
+            value: "Manual Color"
+
+  - entity: number
+    name: Light Color
+    icon: "mdi:palette"
+    dps:
+      - id: 103
+        type: integer
+        name: value
+        range:
+          min: 0
+          max: 255
