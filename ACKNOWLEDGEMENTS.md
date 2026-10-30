@@ -737,7 +737,7 @@ Further device support has been made with the assistance of users. Please consid
 - [goblinmaks](https://github.com/goblinmaks) for contributing support for iPengen GO-E31-32A EV charger.
 - [ivasso](https://github.com/ivasso) for contributing support for Gosund SP6, which was merged into smartplug_usb.yaml.
 - [ScottHansma](https://github.com/ScottHansma) for contributing support for Wine Enthusiast Prestige S beverage center.
-- [decompil3d](https://github.com/decompil3d) for contributing support for Chtoocy MC82 refrigerator thermometer.
+- [decompil3d](https://github.com/decompil3d) for contributing support for Chtoocy MC82 refrigerator thermometer, HQL DS-123 radar switch.
 - [kordek212](https://github.com/kordek212) for contributing support for KKT Kolbe kitchen hood.
 - [bobaoapae](https://github.com/bobaoapae) for contributing support for Veratti V4 3-phase circuit breaker.
 - [alfry82](https://github.com/alfry82) for contributing support for Morento MR5866 air purifier.
@@ -967,3 +967,10 @@ Further device support has been made with the assistance of users. Please consid
 - [ftsachev](https://github.com/ftsachev) for contributing improvements to EARU DPN circuit breaker.
 - [jellybob](https://github.com/jellybob) for contributing improvements to Ecostrad iQ Ceramic V2 radiator.
 - [rmschots](https://github.com/rmschots) for contributing Yu Prime support to Yu Home laundry rack.
+- [brickronny](https://github.com/brickronny) for contributing support for EZAIoT Lite socket thermostat.
+- [33doodles](https://github.com/33doodles) for contributing support for Starlight EF-STAR30 fireplace.
+- [Corza](https://github.com/Corza) for contributing support for Lucci DC ceiling fan with light.
+- [danleongjy](https://github.com/danleongjy) for contributing support for Mowe MW278I induction hob.
+- [surfnterd](https://github.com/surfnterd) for contributing support for Pro Breeze PB-D-18W-WF 12L dehumidifier.
+- [ozgurclcc](https://github.com/ozgurclcc) for contributing support for Vibrix PureFlow30 air purifier.
+- [meeowgler](https://github.com/meeowgler) for contributing support for EA dual zone car fridge.
